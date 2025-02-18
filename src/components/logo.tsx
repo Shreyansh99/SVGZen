@@ -7,7 +7,7 @@ export default function LogoNav() {
     <div className="flex h-16 items-center justify-center gap-2 border-b">
       {/* <Lottie animationData={fireOne} className="h-8 w-8" /> */}
       <LogoTwo />
-      <span className="text-lg">Fire Icons</span>
+      <span className="text-lg">SVGZen</span>
     </div>
   );
 }

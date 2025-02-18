@@ -15,7 +15,7 @@ export default function GitHubIcon() {
   if (!mounted) return null;
 
   return (
-    <Link href="https://github.com/mselbekk11/icons-app" target="_blank">
+    <Link href="https://github.com/Shreyansh99/SVGZen" target="_blank">
       <div className="group">
         <svg
           xmlns="http://www.w3.org/2000/svg"
